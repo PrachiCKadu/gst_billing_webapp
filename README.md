@@ -1,4 +1,4 @@
-# 💳 GST Billing System (PHP OOP)
+# 💳 GST Billing System
 
 **GST Billing System** is a **web-based billing application** built using **PHP Object-Oriented Programming (OOP)** and MySQL. It allows businesses to generate GST-compliant invoices, manage products, and track sales efficiently, following best practices of OOP for clean, maintainable, and scalable code.
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** PHP OOP (Classes, Objects, Inheritance)
+- **Backend:** PHP Laravel
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
 
